@@ -25,3 +25,7 @@ This project is a simple and clean web scraper built in Python using `requests`,
 Installed directly in the notebook:
 ```python```
 !pip install requests beautifulsoup4 pandas openpyxl
+
+📎 License
+
+This project is licensed for educational use only and uses a public demo scraping site.
